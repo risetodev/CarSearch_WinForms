@@ -1,0 +1,20 @@
+Model,Mark,Type,Color,Size of a wheel,Horsepower,Year
+Nissan Juke Parketnuk White 17 100 2016
+Audi A5 Sedan Black 17 115 2015
+Maserati GranTurismo_Sport Kupe Orange 18 150 2013
+Honda Accord Sedan White 16 95 2011
+Bentley Continental_GT_W12_NAIM Kupe Silver 18 155 2012
+Aston Martin_D_B9 Kupe Silver 19 150 2008
+ZAZ 2101 Sedan Black 18 85 2000
+Mersedes Gelenthvagen OffRoad Black 20 180 2010
+VV Golf Sedan Blue 16 95 2012
+Jeep Grand_Cheroky OffRoad Silver 20 180 2013
+BMV X5 OffRoad Black 21 200 2013
+Nissan Navara OffRoad Black 20 200 2015
+Chevrolet Camaro Kupe Black&White 19 279 2015
+ZAZ 2102 Sedan White 16 80 1995
+BMV X5 Parketnuk Black 21 200 2015
+Peugeot 308 Sedan Silver 19 113 2016
+Chevrolet Aveo Sedan Red 17 95 2010
+Nissan Almera Sedan Silver 18 120 2013
+KIA Cerato Sedan White 18 97 2013
